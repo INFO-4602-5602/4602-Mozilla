@@ -55,7 +55,7 @@ Some platforms to look at include:
 If you would like to use a platform that will push you in creative ways but may not support all of the requirements of the project, please come talk to me. 
 
 <h2>Submissions:</h2>
-All submissions must be made through GitHub with a timestamp by 11:59pm on 11.2. Your submission files should include:
+All submissions must be made through GitHub with a timestamp by 11:59pm on 11.4. Your submission files should include:
 <ul>
 <li>Your README</li>
 <li>Your code and/or project</li>
