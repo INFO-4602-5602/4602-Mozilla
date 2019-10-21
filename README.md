@@ -1,4 +1,4 @@
-# 4602-Mozilla
+# 5602-Mozilla
 *Due November 4, 2019 @ 11:59pm through GitHub Classroom*
 
 Projects may be submitted up to 3 days late, with a 10% penalty per day
@@ -39,7 +39,7 @@ The above requirements are the minimum for a passing grade on this project. Some
 <li>Coordinated Views: Have two or more visualizations that interact with one another as you move through the data.</li></ul>
 
 <h2>Platforms:</h2> 
-You can use any development platform you'd like so long as your final project runs in the browser without having to install anything new. Your project readme should include step-by-step instructions on how to run your projects and it should run without me having to modify the code. You are welcome to use different platforms for each visualization.
+You can use any development platform you'd like so long as your final project runs in the browser without having to install anything new or is a thoughtfully constructed physicalization (your physicalization does not need to be interactive). Your project readme should include step-by-step instructions on how to run your projects and it should run without me having to modify the code. You are welcome to use different platforms for each visualization.
 
 Some platforms to look at include:
 <ul>
@@ -58,25 +58,22 @@ If you would like to use a platform that will push you in creative ways but may 
 All submissions must be made through GitHub with a timestamp by 11:59pm on 11.4. Your submission files should include:
 <ul>
 <li>Your README</li>
-<li>Your code and/or project</li>
+<li>Your code and/or project if using a web-based project</li>
 </ul>
 Note that each group only needs to submit one file. 
 
+If you choose to submit a physicalization, please submit that artifact by leaving it at my office by close of business on November 4. You will still need to submit a readme explaining your project.
+
+
 ## Project Teams
-Group 1:	Savannah Bornstein, Joshua Paup, Elise Bergmann, Conner Sinjem
+Group 1:	Jess Mailhot, Julia Medeiros, Mike Flanigan, & Jack Hessburg
 
-Group 2:	Lanea Blackburn, Priya Panati, Edgar Mendoza, Jacob Boeckenstedt
+Group 2:	Telly Umada, Annebeth Buis, Chandan Naik, & Nishank Sharma
 
-Group 3:	Hannah Weber, Trevor Buck, Clark Mousaw	
+Group 3:	Viv Lai, Chao-Chun Hsu, & Yichen Wang	
 
-Group 4:	Madeline Cupchak, Hunter Rief, Kathleen Anderson, Yizhen Wu
+Group 4:	Mikhaila Friske, Dianna Radpour, & Abbie Zimmerman-Niefield	
 
-Group 5:	Jiaheng Zhao, Jiahao Wang, Juliet McFarlane, Michael Rogers
+Group 5:	Lan Sang, Ling Liu, & Ziying Zhang	
 
-Group 6:	Mary Yoder, Julia Merten, Paige Stockebrand, Lu Liu
-
-Group 7:	Jihoon Jang, Caden Bradbury, Talia Colalancia	
-
-Group 8:	Joshua Barker, Angus MacDonald, Malik Tefridj, Keaton Whitehead
-
-Group 9:	Anthony Camacci, Dilon Clark, Steven Yatko	
+Group 6	Ahmed Al Hasani, Alex Constinescu, & Pratik Revankar		
